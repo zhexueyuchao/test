@@ -1,0 +1,4 @@
+(defun minus (a b)
+  (- a b))
+(defun add (a b)
+  (+ a b))
